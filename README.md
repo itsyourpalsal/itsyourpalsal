@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salvador Beltran</h1>
-<h3 align="center">Mission-driven Full Stack Web Developer. Recently earned a certificate in Full Stack development from the University of Central Florida. Continually honing the skills learned at UCF such as HTML, CSS, JavaScript, React.js, and more, while expanding my knowledge by learning new skills like Angular and Python.<br>
+<h3 align="center">Mission-driven Full Stack Web Developer. Recently earned a certificate in Full Stack development from the University of Central Florida. Continually honing the skills learned at UCF such as HTML, CSS, JavaScript, React.js, and more, while expanding my knowledge by learning new skills like Angular and Python.</br>
 
 After applying myself to the bootcamp, I discovered a passion for Web Development. I couldn't get enough of it. I'm currently sharpening my skills to make websites for friends and family. I'm looking into freelancing in the mean time until I can bring that passion into a full-time role.</h3>
 
