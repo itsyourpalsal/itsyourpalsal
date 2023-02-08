@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salvador Beltran</h1>
-<h3 align="center">Full-Stack Web Developer. Recently earned a certificate in Full Stack development from the University of Central Florida. Expanding my language knowledge to Python, Java, C# and AWS. Focused, motivated and eager to learn.</h3>
+<h3 align="center">Mission-driven Full Stack Web Developer. Recently earned a certificate in Full Stack development from the University of Central Florida. Continually honing the skills learned at UCF such as HTML, CSS, JavaScript, React.js, and more, while expanding my knowledge by learning new skills like Angular and Python.
+
+After applying myself to the bootcamp, I discovered a passion for Web Development. I couldn't get enough of it. I'm currently sharpening my skills to make websites for friends and family. I'm looking into freelancing in the mean time until I can bring that passion into a full-time role.</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/salbeltran/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/itsyourpalsal) 
